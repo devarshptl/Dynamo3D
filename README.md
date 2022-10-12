@@ -51,12 +51,12 @@
 
 ## Result
 
-1) Insertion: <br/> <img src="https://github.com/nyu-cs-cy-6533-fall-2021/assignment-4-environment-mapping-and-shadow-mapping-dp3324/blob/main/result/insert.png" alt="Insertion"> <br/>
-2) Translation: <br/> <img src="https://github.com/nyu-cs-cy-6533-fall-2021/assignment-4-environment-mapping-and-shadow-mapping-dp3324/blob/main/result/translate.png" alt="Translation"> <br/>
-3) Rotation: <br/> <img src="https://github.com/nyu-cs-cy-6533-fall-2021/assignment-4-environment-mapping-and-shadow-mapping-dp3324/blob/main/result/rotate.png" alt="Rotation"> <br/>
-4) Light Movement: <br/> <img src="https://github.com/nyu-cs-cy-6533-fall-2021/assignment-4-environment-mapping-and-shadow-mapping-dp3324/blob/main/result/light_movement.png" alt="Light Movement"> <br/>
-5) Camera Control: <br/> <img src="https://github.com/nyu-cs-cy-6533-fall-2021/assignment-4-environment-mapping-and-shadow-mapping-dp3324/blob/main/result/camera_control.png" alt="Camera Control"> <br/>
-6) Shadow Red: <br/> <img src="https://github.com/nyu-cs-cy-6533-fall-2021/assignment-4-environment-mapping-and-shadow-mapping-dp3324/blob/main/result/shadow_red.png" alt="Shadow Red"> <br/>
-7) Environment Mapping: <br/> <img src="https://github.com/nyu-cs-cy-6533-fall-2021/assignment-4-environment-mapping-and-shadow-mapping-dp3324/blob/main/result/environment_mapping.png" alt="Environment Mapping"> <br/>
-8) Refraction: <br/> <img src="https://github.com/nyu-cs-cy-6533-fall-2021/assignment-4-environment-mapping-and-shadow-mapping-dp3324/blob/main/result/refraction.png" alt="Refraction"> <br/>
-9) Dynamic Environment Mapping: <br/> <img src="https://github.com/nyu-cs-cy-6533-fall-2021/assignment-4-environment-mapping-and-shadow-mapping-dp3324/blob/main/result/dynamic_env_mapping.png" alt="Dynamic Environment Mapping"> <br/>
+1) Insertion: <br/> <img src="https://github.com/reactive-coder/Dynamo3D/blob/main/result/insert.png" alt="Insertion"> <br/>
+2) Translation: <br/> <img src="https://github.com/reactive-coder/Dynamo3D/blob/main/result/translate.png" alt="Translation"> <br/>
+3) Rotation: <br/> <img src="https://github.com/reactive-coder/Dynamo3D/blob/main//result/rotate.png" alt="Rotation"> <br/>
+4) Light Movement: <br/> <img src="https://github.com/reactive-coder/Dynamo3D/blob/main/result/light_movement.png" alt="Light Movement"> <br/>
+5) Camera Control: <br/> <img src="https://github.com/reactive-coder/Dynamo3D/blob/main/result/camera_control.png" alt="Camera Control"> <br/>
+6) Shadow Red: <br/> <img src="https://github.com/reactive-coder/Dynamo3D/blob/main/result/shadow_red.png" alt="Shadow Red"> <br/>
+7) Environment Mapping: <br/> <img src="https://github.com/reactive-coder/Dynamo3D/blob/main/result/environment_mapping.png" alt="Environment Mapping"> <br/>
+8) Refraction: <br/> <img src="https://github.com/reactive-coder/Dynamo3D/blob/main/result/refraction.png" alt="Refraction"> <br/>
+9) Dynamic Environment Mapping: <br/> <img src="https://github.com/reactive-coder/Dynamo3D/blob/main/result/dynamic_env_mapping.png" alt="Dynamic Environment Mapping"> <br/>

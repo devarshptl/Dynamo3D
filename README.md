@@ -1,6 +1,4 @@
-# Assignment 4: Environment Mapping and Shadow Mapping
-
-### Submitted By: Devarsh Patel (dp3324)
+# Dynamo3D
 
 ## Implementation
 
